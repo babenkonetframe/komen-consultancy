@@ -1,7 +1,7 @@
 /* Gilroy-Medium.ttf */
 @font-face {
     font-family: 'Gilroy';
-    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-Medium.ttf') format('opentype');
+    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
@@ -9,7 +9,7 @@
 /* Gilroy-SemiBold.ttf */
 @font-face {
     font-family: 'Gilroy';
-    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-SemiBold.ttf') format('opentype');
+    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
@@ -17,7 +17,7 @@
 /* Gilroy-Bold.ttf */
 @font-face {
     font-family: 'Gilroy';
-    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-Bold.ttf') format('opentype');
+    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
@@ -25,7 +25,7 @@
 /* Gilroy-Regular.ttf */
 @font-face {
     font-family: 'Gilroy';
-    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-Regular.ttf') format('opentype');
+    src: url('https://github.com/babenkonetframe/komen-consultancy/raw/refs/heads/main/fonts/Gilroy-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
